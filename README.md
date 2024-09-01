@@ -1,6 +1,6 @@
 ## **Project Introduction:**
 
-**Our project, titled "Skincare Sentiment Analysis for Dermalogica," employs Natural Language Processing (NLP) techniques to analyze a dataset of Ulta Skincare Reviews for Dermalogica products, scraped on March 27, 2023. The primary goal is to understand the overall sentiment associated with each product, providing valuable insights for product enhancement and customer satisfaction. The analysis covers aspects such as verified buyer status, review distribution, positive keywords, common skincare concerns, product types, upvotes/downvotes correlation, and a machine learning model evaluation. The project aims to empower Dermalogica in making data-driven decisions for continual product improvement.**
+**"Skincare Sentiment Analysis for Dermalogica," employs Natural Language Processing (NLP) techniques to analyze a dataset of Ulta Skincare Reviews for Dermalogica products, scraped on March 27, 2023. The primary goal is to understand the overall sentiment associated with each product, providing valuable insights for product enhancement and customer satisfaction. The analysis covers aspects such as verified buyer status, review distribution, positive keywords, common skincare concerns, product types, upvotes/downvotes correlation, and a machine learning model evaluation. The project aims to empower Dermalogica in making data-driven decisions for continual product improvement.**
 
 **Agenda:**
 
